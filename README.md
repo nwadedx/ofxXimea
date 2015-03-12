@@ -5,6 +5,6 @@ XI_RGB32 and XI_MONO8 modes are supported, as is verbose error reporting, intera
 
 Works great with MANY cameras streaming simultaniously.
 
-ofOpenCV is required.
+ofxOpenCV is required.
 
 
