@@ -1,6 +1,5 @@
 //\ ofxXimea Example
-//\ Nathan Wade 03.12.2015
-//\ http://nwadedx.info/
+//\ rev03122015 Nathan Wade 
 
 #include "testApp.h"
 
